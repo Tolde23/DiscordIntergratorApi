@@ -1,0 +1,11 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+DiscordIntergratorApi/__init__.py
+DiscordIntergratorApi.egg-info/PKG-INFO
+DiscordIntergratorApi.egg-info/SOURCES.txt
+DiscordIntergratorApi.egg-info/dependency_links.txt
+DiscordIntergratorApi.egg-info/requires.txt
+DiscordIntergratorApi.egg-info/top_level.txt
